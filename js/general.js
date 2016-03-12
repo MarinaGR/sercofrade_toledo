@@ -15,7 +15,6 @@ if(typeof provincia_cargada == "undefined"  || provincia_cargada==null)
 }
 var extern_siteurl='http://semanasantasercastillalamancha.com/'+provincia_cargada;
 */
-
 var extern_web=extern_siteurl+'/server/publicidad/load_adpage.php?anuncio=';
 
 
